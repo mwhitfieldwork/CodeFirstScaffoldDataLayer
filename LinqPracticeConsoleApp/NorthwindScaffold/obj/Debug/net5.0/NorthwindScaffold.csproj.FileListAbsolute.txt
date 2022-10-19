@@ -1,0 +1,15 @@
+D:\Practice\BackEnd\LinqStudy\LinqPractice\LinqPracticeConsoleApp\NorthwindScaffold\bin\Debug\net5.0\NorthwindScaffold.deps.json
+D:\Practice\BackEnd\LinqStudy\LinqPractice\LinqPracticeConsoleApp\NorthwindScaffold\bin\Debug\net5.0\NorthwindScaffold.runtimeconfig.json
+D:\Practice\BackEnd\LinqStudy\LinqPractice\LinqPracticeConsoleApp\NorthwindScaffold\bin\Debug\net5.0\NorthwindScaffold.runtimeconfig.dev.json
+D:\Practice\BackEnd\LinqStudy\LinqPractice\LinqPracticeConsoleApp\NorthwindScaffold\bin\Debug\net5.0\NorthwindScaffold.dll
+D:\Practice\BackEnd\LinqStudy\LinqPractice\LinqPracticeConsoleApp\NorthwindScaffold\bin\Debug\net5.0\ref\NorthwindScaffold.dll
+D:\Practice\BackEnd\LinqStudy\LinqPractice\LinqPracticeConsoleApp\NorthwindScaffold\bin\Debug\net5.0\NorthwindScaffold.pdb
+D:\Practice\BackEnd\LinqStudy\LinqPractice\LinqPracticeConsoleApp\NorthwindScaffold\obj\Debug\net5.0\NorthwindScaffold.csproj.AssemblyReference.cache
+D:\Practice\BackEnd\LinqStudy\LinqPractice\LinqPracticeConsoleApp\NorthwindScaffold\obj\Debug\net5.0\NorthwindScaffold.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\BackEnd\LinqStudy\LinqPractice\LinqPracticeConsoleApp\NorthwindScaffold\obj\Debug\net5.0\NorthwindScaffold.AssemblyInfoInputs.cache
+D:\Practice\BackEnd\LinqStudy\LinqPractice\LinqPracticeConsoleApp\NorthwindScaffold\obj\Debug\net5.0\NorthwindScaffold.AssemblyInfo.cs
+D:\Practice\BackEnd\LinqStudy\LinqPractice\LinqPracticeConsoleApp\NorthwindScaffold\obj\Debug\net5.0\NorthwindScaffold.csproj.CoreCompileInputs.cache
+D:\Practice\BackEnd\LinqStudy\LinqPractice\LinqPracticeConsoleApp\NorthwindScaffold\obj\Debug\net5.0\NorthwindScaffold.dll
+D:\Practice\BackEnd\LinqStudy\LinqPractice\LinqPracticeConsoleApp\NorthwindScaffold\obj\Debug\net5.0\ref\NorthwindScaffold.dll
+D:\Practice\BackEnd\LinqStudy\LinqPractice\LinqPracticeConsoleApp\NorthwindScaffold\obj\Debug\net5.0\NorthwindScaffold.pdb
+D:\Practice\BackEnd\LinqStudy\LinqPractice\LinqPracticeConsoleApp\NorthwindScaffold\obj\Debug\net5.0\NorthwindScaffold.genruntimeconfig.cache
